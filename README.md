@@ -3,9 +3,7 @@
 
 ## Summary
 - This map was built utilizing OpenStreetMap and Leaflet to plot all earthquakes occurring within last 7 days
-- Each earthquake is visualized by marker size and color
-1. Larger markers represent higher magnitude
-2. Darker markers represent greater depth (see Legend on map for color according to kilometer depth)
+- Each earthquake is visualized by marker size and color (Larger markers represent higher magnitude, darker markers represent greater depth - see map legend)
 - Pop-up information per earthquake is available if you click on each marker
 
 ### Live Map: http://127.0.0.1:5500/index.html
