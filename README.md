@@ -8,5 +8,6 @@
 2. Darker markers represent greater depth (see Legend on map for color according to kilometer depth)
 - Pop-up information per earthquake is available if you click on each marker
 
-## Live Map: http://127.0.0.1:5500/index.html
+## Live Map: 
+http://127.0.0.1:5500/index.html
 <img width="750" alt="Live Map" src="https://user-images.githubusercontent.com/118948437/232617301-60814a3b-c1ab-419f-a963-4d8fa94beba8.png">
